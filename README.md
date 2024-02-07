@@ -1,1 +1,3 @@
 # Restaurant-Page
+It's a simple interavtive webpage made with just HTML and CSS for a restaurant.This is an interactive menu, inviting users to explore the food. The site boasts a responsive design, ensuring a seamless browsing experience on various devices. With a user-friendly reservation system, they can effortlessly plan their dining experience, It's a multi page website with About Us,Contact,etc pages.The Contact page again is an interactive query page where users can ask their queries and will be answered on mail or phone. It's an ongoing project and a lot of new things are going to be added and tecnologies to be used on.
+It's still got a lot to add on and beautify because it's still an ongoing project.
